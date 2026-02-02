@@ -16,7 +16,7 @@ I am Full Stack Developer<br>I am Python Developer
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=faizbek3991&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![]([https://github-contributor-stats.vercel.app/api?username=faizbek3991&limit=5&theme=dark&combine_all_yearly_contributions=true](https://onlinetrainingcikgufaiz.netlify.app/))
 
 ---
 [![](https://visitcount.itsvg.in/api?id=faizbek3991&icon=0&color=0)](https://visitcount.itsvg.in)
