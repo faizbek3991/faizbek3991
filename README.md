@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Full Stack Developer<br>I am Python Developer
+I am MERN Full Stack Developer<br>I am Python Developer
 
 
 # 💻 Tech Stack:
