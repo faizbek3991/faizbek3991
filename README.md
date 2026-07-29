@@ -19,7 +19,7 @@ I’m a full-stack developer and automation specialist with 4+ years of experien
 
 ## 🚀 Featured Projects
 
-**[AI Showcase Kit](https://cikgu-faiz-portfolio.tiiny.site/)** — Computer vision system with integrated HMI interface  
+**[AI Showcase Kit](https://aishowcasekit.onrender.com/login)** — Computer vision system with integrated HMI interface  
 *Python • OpenCV • Real-time Processing*
 
 **[Predictive Analytics System](https://icy-river-057bc0800.7.azurestaticapps.net/login)** — Historical data analysis and forecasting application  
