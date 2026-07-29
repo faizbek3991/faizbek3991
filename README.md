@@ -20,13 +20,17 @@ I’m a full-stack developer and automation specialist with 4+ years of experien
 ## 🚀 Featured Projects
 
 **[AI Showcase Kit](https://aishowcasekit.onrender.com/login)** — Computer vision system with integrated HMI interface  
-*Python • OpenCV • Real-time Processing*
+*React • FastAPI • OpenCV • Real-time Processing*
 
 **[Predictive Analytics System](https://icy-river-057bc0800.7.azurestaticapps.net/login)** — Historical data analysis and forecasting application  
-*Python • Data Analysis • Machine Learning*
+*React • FastAPI • Data Visualisation • Data Analysis • Machine Learning*
 
-**[Online Class Booking Platform](https://onlinetrainingcikgufaiz.my/)** — Full-stack web application deployed on AWS  
-*React • Node.js • AWS EC2 • MongoDB*
+**[Online Class Booking Platform](https://onlinetrainingcikgufaiz.my/)** — Serverless web application deployed on Netlify 
+*HTML+CSS • Google App Script • Google Sheet*
+
+**[Chatbot AI Golang Platform](https://chatbotgo.onrender.com/login)** — Full-stack web application deployed on Render 
+*React • FastAPI • Render • MongoDB*
+
 
 📋 **[See more on my portfolio →](https://cikgu-faiz-portfolio.tiiny.site/)**
 
