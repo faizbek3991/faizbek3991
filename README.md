@@ -22,10 +22,10 @@ I’m a full-stack developer and automation specialist with 4+ years of experien
 **[AI Showcase Kit](https://cikgu-faiz-portfolio.tiiny.site/)** — Computer vision system with integrated HMI interface  
 *Python • OpenCV • Real-time Processing*
 
-**[Predictive Analytics System](https://cikgu-faiz-portfolio.tiiny.site/)** — Historical data analysis and forecasting application  
+**[Predictive Analytics System](https://icy-river-057bc0800.7.azurestaticapps.net/login)** — Historical data analysis and forecasting application  
 *Python • Data Analysis • Machine Learning*
 
-**[Online Class Booking Platform](https://cikgu-faiz-portfolio.tiiny.site/)** — Full-stack web application deployed on AWS  
+**[Online Class Booking Platform](https://onlinetrainingcikgufaiz.my/)** — Full-stack web application deployed on AWS  
 *React • Node.js • AWS EC2 • MongoDB*
 
 📋 **[See more on my portfolio →](https://cikgu-faiz-portfolio.tiiny.site/)**
